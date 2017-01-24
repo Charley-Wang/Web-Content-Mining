@@ -13,4 +13,34 @@ As shown in Figure 1, we can see that one-third of jobs in computer science loca
 <p></p>
 Figure 1. The relative frequencies of jobs in computer science in USA.
 
-# 
+### Hard Skills Shown in Linkedin Are Different Those in Job Postings
+<p></p>
+Top Skills shown in Linkedin focus mainly in the specific techniques whereas hard skills required in job postings are more general. As shown in Table 1, people in Linkedin like to show their hard skills in computer languages such as C++, Python, Java, and so on, and specific computer tools such as Microsoft Office/Excel, Matlab, SQL, R, SAS, and so forth. Hard skills required in job posting focus more on general skills such as testing, database, programming, software development, and etc. This draws our attention how to post our hard skills in the social network media.
+<p></p>
+![Alt text](https://github.com/Charley-Wang/Web-Content-Mining/blob/master/Results/Table1.jpg?raw=true "Main Interface")
+<p></p>
+Talbe 1. Top 20 hard skills required in job postings and shown in Linkedin
+
+### The Most Required Soft Skills Are Communication, Leadership, and Organization
+<p></p>
+More than sixty percent of job postings require communication skill (Table 2). One-third of them need leadership, organization, and planning. Problem solving, interpersonal, competitive, presentation, and motivated are also very important skills.
+<p></p>
+![Alt text](https://github.com/Charley-Wang/Web-Content-Mining/blob/master/Results/Table2.jpg?raw=true "Main Interface")
+<p></p>
+Table 2. Top 20 soft skills required in job postings
+
+### Certifications Requirement is Very Diverse
+<p></p>
+Certifications requirement is various and 20% of job postings posting need them (Table 3). Project Management Professional Certification is popular certification. Security, Cisco Network related certifications are also important. Certifications from Amazon Web Services and Microsoft need to be noticed.
+<p></p>
+![Alt text](https://github.com/Charley-Wang/Web-Content-Mining/blob/master/Results/Table3.jpg?raw=true "Main Interface")
+<p></p>
+Table 3. Top 15 requirements in certifications
+
+### The Average Years’ Experience is Four
+<p></p>
+The years of experiences distribution is shown in Figure 2. More than 85% job postings need one or more year’s experiences. The average years’ experience is four.
+<p></p>
+![Alt text](https://github.com/Charley-Wang/Web-Content-Mining/blob/master/Results/Figure2.jpg?raw=true "Main Interface")
+<p></p>
+Figure 2. Years of experiences required in job postings.
